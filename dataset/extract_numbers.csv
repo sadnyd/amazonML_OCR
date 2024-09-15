@@ -1,6 +1,6 @@
-Unnamed: 0,image_link,group_id,entity_name,entity_value,pytesseract_output
+Unnamed: 0,image_link,group_id,entity_name,entity_value,pytesseract_output,extracted_data
 98467,https://m.media-amazon.com/images/I/71c7OUcucTL.jpg,529606,item_weight,567 gram," 
-"
+",[]
 116348,https://m.media-amazon.com/images/I/81KcClrXxaL.jpg,211213,item_weight,1.0 kilogram,"6 Auto Cook Menus Py
 
 From popcorn to pasta, these pre-set menus
@@ -22,9 +22,9 @@ a5
 ee aus
 
  
-"
+","[['6', ' Auto', ''], ['5', '\nee a', ' g\n\na']]"
 109788,https://m.media-amazon.com/images/I/7194z1PyexL.jpg,297918,item_weight,1.41 ounce," 
-"
+",[]
 109254,https://m.media-amazon.com/images/I/51NNyPYohuL.jpg,523149,item_weight,2.2 gram," 
 
 Be: #)2.2g
@@ -32,7 +32,7 @@ Be: #)2.2g
  
 
 BER: RIDFLIME, SA NTRA, BEI AE!
-"
+","[['2.2', 'g\n\n \n', 'e: #)']]"
 96686,https://m.media-amazon.com/images/I/51K8zUa5T1L.jpg,658003,item_weight,62.0 gram,"Peso Netto (g): 62,00
 
 H - Altezza (mm): 24,00
@@ -40,13 +40,13 @@ H - Altezza (mm): 24,00
 di - Diametro esterno (mm): 215,00
 
  
-"
+","[['62.00', '\n\nH -', '(g): '], ['24.00', '\n\ndi ', 'mm): '], ['215.00', '\n\n \n\x0c', 'mm): ']]"
 89614,https://m.media-amazon.com/images/I/61EJ30GOtoL.jpg,630869,item_weight,16.0 gram,"316L Stainless Steel
 Weight : 16g
 High Polished Surface
 
  
-"
+","[['316', 'L Sta', ''], ['16', 'g\nHig', 'ht : ']]"
 66970,https://m.media-amazon.com/images/I/51Vhbg7qFDL.jpg,630869,item_weight,12.0 gram," 
 
 5mm/(0.2”)
@@ -58,11 +58,11 @@ Material:Stainless steel
 Weight:12g
 
  
-"
+","[['5', 'mm/(0', ' \n\n'], ['0.2', '”)\n\n ', '5mm/('], ['12', 'g\n\n \n', 'ight:']]"
 2417,https://m.media-amazon.com/images/I/71QBpM5AjbL.jpg,929999,item_weight,330.0 gram," 
-"
+",[]
 105875,https://m.media-amazon.com/images/I/71NqdfoTJyL.jpg,375816,item_weight,2.0 gram," 
-"
+",[]
 59181,https://m.media-amazon.com/images/I/81W+p-AC2BL.jpg,810266,item_weight,20.0 ounce,"Anytime you have that “Fu k Around And Find Out”
 feeling from a Bi ch. Hoe, or Thot, simply stand back
 and spray that bi ch in the face until they are gone.
@@ -115,7 +115,7 @@ NET WT
 
  
  
-"
+","[['1', ' cris', 'one.\n'], ['1', ')9501', ' \n\n(@'], ['95012345678903', ' (310', '\n(@1)'], ['3103', ') 000', '903 ('], ['000123', ' yr\n\n', '103) '], ['20', ' oz\n\n', 'T WT\n']]"
 29299,https://m.media-amazon.com/images/I/614QuN-aYCL.jpg,881883,item_weight,230.0 gram,"    
 
 Woven in three layers
@@ -124,7 +124,7 @@ Woven in three layers
 
 Be VE CUur Heth Aa el \\-taCce
 Weight: 230 g/m2
-"
+","[['230', ' g/m2', 'ght: '], ['2', '\n\x0c', '0 g/m']]"
 128939,https://m.media-amazon.com/images/I/71Zs4fOVa1L.jpg,654649,item_weight,2.4 gram,"App-Fernbedienung und Fernsteuerung
 
 Il ee | A
@@ -136,7 +136,7 @@ eye)
 
 2.4G REMOTE CONTROL
 APP REMOTE CONTROL MODE
-"
+","[['2', ' : DU', 'l =)\n'], ['2.4', 'G REM', '   \n\n']]"
 109810,https://m.media-amazon.com/images/I/81zm1GVN6wL.jpg,558374,item_weight,19.7 ounce,"aDTt LOLiieoe es
 MAGIZO ACIDULADS Se
 f ts y
@@ -168,7 +168,7 @@ Pe 4 RN
    
    
    
-"
+","[['1', ' INEA', 'AZNO '], ['4', '\n\n- C', '¥ ie '], ['4', '()\nyi', 'm TA '], ['2', '\n\nPFE', 'yi? #'], ['4', ' RN\n\n', '\n\nPe ']]"
 20579,https://m.media-amazon.com/images/I/61-6Pa3DUlL.jpg,801837,item_weight,"[25.0, 35.0] kilogram","XL
 
 XXL
@@ -199,7 +199,7 @@ Geeignete Gewicht
 80-90kg
 
 90-110kg
-"
+","[['120-145', 'cm\n\n1', 'ohe\n\n'], ['155-168', 'cm\n\n1', '5cm\n\n'], ['170-175', 'cm\n\n1', '8cm\n\n'], ['175-180', 'cm\n\n1', '5cm\n\n'], ['180-185', 'cm\n\n1', '0cm\n\n'], ['185-195', 'cm\n\n ', '5cm\n\n'], ['25-35', 'kg\n45', 'icht\n'], ['45-60', 'kg\n60', '35kg\n'], ['60-70', 'kg\n70', '60kg\n'], ['70-80', 'kg\n80', '70kg\n'], ['80-90', 'kg\n\n9', '80kg\n'], ['90-110', 'kg\n\x0c', '0kg\n\n']]"
 743,https://m.media-amazon.com/images/I/614aBp6QwxL.jpg,299791,item_weight,6.9 gram," 
    
    
@@ -223,9 +223,9 @@ G.71cm (28inches) Net weight:15g
 H.76cm (30inches) Net weight:16g
 
 3mm(0.1inch)
-"
+","[['35', 'cm (1', 'n:\nA.'], ['14', 'inche', '5cm ('], ['6.9', 'g\nB.4', 'ight:'], ['46', 'cm (1', '9g\nB.'], ['18', 'inche', '6cm ('], ['9', 'g\nC.5', 'ight:'], ['51', 'cm (2', '9g\nC.'], ['20', 'inche', '1cm ('], ['9.5', 'g\nD.5', 'ight:'], ['55', 'cm (2', '5g\nD.'], ['22', 'inche', '5cm ('], ['10', 'g\nE.6', 'ight:'], ['61', 'cm (2', '0g\nE.'], ['24', 'inche', '1cm ('], ['11', 'g\nF.6', 'ight:'], ['66', 'cm (2', '1g\nF.'], ['26', 'inche', '6cm ('], ['12', 'g\nG.7', 'ight:'], ['71', 'cm (2', '2g\nG.'], ['28', 'inche', '1cm ('], ['15', 'g\n\nH.', 'ight:'], ['76', 'cm (3', 'g\n\nH.'], ['30', 'inche', '6cm ('], ['16', 'g\n\n3m', 'ight:'], ['3', 'mm(0.', '16g\n\n'], ['0.1', 'inch)', '\n3mm(']]"
 52994,https://m.media-amazon.com/images/I/61q588ra9kL.jpg,308856,item_weight,1000.0 gram," 
-"
+",[]
 48430,https://m.media-amazon.com/images/I/61S67pg7hBL.jpg,152057,item_weight,500.0 gram,"etetaxaltc le) coma l ace]
 Pree Ald pouch
 
@@ -258,7 +258,7 @@ Salt [758
  
 
  
-"
+","[['9', '\n\neat', 'o.uk®'], ['100', '% Pur', ' \n \n\n'], ['0019', 'UXZO1', ' ©\n\nX'], ['1', '\nourh', '9UXZO'], ['0', '% ..t', 'alth '], ['758', '\n\n \n\n', 'alt [']]"
 52856,https://m.media-amazon.com/images/I/714d9LgqFyL.jpg,731432,item_weight,87.0 gram,"   
 
 \\SM, Vitamine C, Zinc et acides aminés
@@ -299,13 +299,13 @@ XFRB4213 028
  
 
  
-"
+","[['87', ' g\n\nP', 'et : '], ['9', '\nlaco', 't du '], ['5', ' comp', 'HI\n-e'], ['1250', '\n\nvol', 'n #K-'], ['23', ' 5PT\n', 's. HP'], ['5', 'PT\n\no', 'HP23 '], ['34-40', ' rue ', 'nce\n\n'], ['12130', ' Issy', 'mer\n\n'], ['735', '/4086', 'eaux\n'], ['40865', '\n\nXFR', '\n735/'], ['4213', ' 028\n', '\nXFRB'], ['028', '\n\n \n\n', '4213 ']]"
 53533,https://m.media-amazon.com/images/I/717r4wdsHBL.jpg,844474,item_weight,6.0 gram," 
 
  
-"
+",[]
 112716,https://m.media-amazon.com/images/I/81yMoafS-8L.jpg,308856,item_weight,100.0 gram," 
-"
+",[]
 42280,https://m.media-amazon.com/images/I/71IlZAnNq7L.jpg,281678,item_volume,8.0 fluid ounce,"ORGANIC
 
 CHAI
@@ -359,7 +359,7 @@ ee mere elie
 150 mg Pete
 
  
-"
+","[['205', '°F\nme', 'ONS\n\n'], ['26-39', ' mg\n@', '@ OD '], ['1-15', ' mg\n\n', '\n> > '], ['8', ' floz', 'ede\n\n'], ['8', ' fl o', '\n\nan '], ['2', '\nee m', 'Aoi) '], ['150', ' mg P', 'lie\n\n']]"
 14369,https://m.media-amazon.com/images/I/716L4I-O08L.jpg,254449,item_volume,250.0 millilitre,"TTP T)
 
  
@@ -453,7 +453,7 @@ tere rene
 t+
 
  
-"
+","[['3', ' und ', 'min D'], ['3', ' trag', 'min D'], ['2', ' x ta', 'ung; '], ['250', ' mi) ', 'ser ('], ['5', ' -pho', 'avin-'], ['3', '\n\nPcs', 'ium+D'], ['65', 'k) 81', 'rgie '], ['815', 'k)\n16', '65k) '], ['16', ' kcal', '15k)\n'], ['194', ' kcal', 'kcal '], ['01', 'g <01', 'ett <'], ['01', 'g\n- d', '01g <'], ['1', 'g\nKoh', 'en <O'], ['029', '\n= da', 'rate '], ['1', 'g <\nE', 'er <O'], ['1', 'g <\nS', 'iB <O'], ['0.609', ' 7.\n\n', 'Salz '], ['7.', '\n\nFir', '.609 '], ['01', '\n\n6\n1', 'e*\n\n<'], ['6', '\n1\n1\n', '<01\n\n'], ['1', '\n1\n\n ', '1\n\n6\n'], ['1', '\n\n   ', '\n6\n1\n'], ['54', '\n\nZus', 'aaa\n\n'], ['2', ' Tabl', ' pro '], ['8.0', ' g) a', 'bl. ('], ['800', ' mg 1', 'cium '], ['100', ' %\n10', '0 mg '], ['100', ' %\n\nV', '00 %\n'], ['3', '\n\n  \n', 'min D'], ['80', ' g\n\n ', 'ten= ']]"
 130692,https://m.media-amazon.com/images/I/51MlCLd0MOL.jpg,369753,item_volume,5.5 ounce,"Ts
 
 DRMTLGY
@@ -470,7 +470,7 @@ RENEW
 exfoliate//hydrate
 
 5.5 0z/156g
-"
+","[['5.5', ' 0z/1', 'ate\n\n'], ['0', 'z/156', '\n5.5 '], ['156', 'g\n\x0c', '5 0z/']]"
 115776,https://m.media-amazon.com/images/I/81bZIWKjxfL.jpg,884560,item_volume,284.0 millilitre,"I ST eT aaa
 
    
@@ -496,7 +496,7 @@ RICE RICE RICE RICE
 TOMATES TOMATES TOMATES TOMATES
 
 ETRIZ
-"
+",[]
 127428,https://m.media-amazon.com/images/I/61vgSGw2X-L.jpg,254449,item_volume,4.0 fluid ounce,"SOVEREIG ~
 
 \ A
@@ -527,7 +527,7 @@ ata
 Br aed
 Mar esa uy
 Maus
-"
+",[]
 103915,https://m.media-amazon.com/images/I/31eXwPch0TL.jpg,625842,item_volume,250.0 millilitre,"———————
 
 2&4
@@ -538,7 +538,7 @@ Gy
 TONIC WATER]
 
 |
-"
+","[['2', '&4\n\nB', '———\n\n'], ['4', '\n\nBLI', '—\n\n2&']]"
 3095,https://m.media-amazon.com/images/I/61NLjwkWuhL.jpg,373285,item_volume,0.9 litre,"LNG ace
 ao ecu stag
 aa
@@ -555,7 +555,7 @@ SENZA
 wie 5
 
  
-"
+","[['5', '\n\n \n\x0c', '\nwie ']]"
 71739,https://m.media-amazon.com/images/I/710mb1wSiLS.jpg,373285,item_volume,32.0 fluid ounce,"Tahiti Trader?
 
 TART CHERRY
@@ -568,7 +568,7 @@ CERTIFIED PURE UNSWEETENED 100% NATUR
 32 FL OZ (946 ML)
 
  
-"
+","[['100', '% NAT', 'ENED '], ['32', ' FL O', 'ATUR\n'], ['946', ' ML)\n', ' OZ (']]"
 106603,https://m.media-amazon.com/images/I/5116r3GjWML.jpg,916768,item_volume,1.9 litre,"Package Include
 
 1x Tall Container
@@ -607,7 +607,7 @@ mm
 |
 
 4
-"
+","[['1', 'x Tal', 'ude\n\n'], ['2', ' x Me', 'ner\n\n'], ['2', ' x Sm', 'ners\n'], ['2', ' x Mi', 'ers\n\n'], ['0', ""'8\n\n "", '\n\nulZ'], ['8', '\n\n \n\n', ""ulZ0'""], ['4.13', 'in\n\nk', '\n\na\n\n'], ['9', '\n\nmm\n', ""\nUIT'""], ['4', '\n\x0c', '\n\n|\n\n']]"
 72438,https://m.media-amazon.com/images/I/71d2-HL+9QL.jpg,459516,item_volume,15.0 millilitre,"Teo Yaturd
 
 prodotti da agricoltura biologica
@@ -642,7 +642,7 @@ ICO - BIO - ORGANIC- BIOLOGIS'
 V Disintossicante
 
  
-"
+","[['1', ' _ a\n', 'RGIA ']]"
 98467,https://m.media-amazon.com/images/I/71c7OUcucTL.jpg,529606,item_weight,567 gram," 
 
 Be: #)2.2g  45-45 gm
@@ -650,4 +650,4 @@ Be: #)2.2g  45-45 gm
  
 
 BER: RIDFLIME, SA NTRA, BEI AE!
-"
+","[['2.2', 'g  45', 'e: #)'], ['45-45', ' gm\n\n', '.2g  ']]"
