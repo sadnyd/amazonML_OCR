@@ -1,1 +1,33 @@
-29
+If I ever get a chance to meet Sam Altman on a 2-hour flight, I would like to talk to him on how big data around people are very commonly used but how data taken from flights and airports are rarely seen to be worked on. I have always wondered how every sensor data from a airplane has it's very high worth. Imagine compiling those data, finding out insights and predicting the best weather conditions, flight paths and even mechanical insights. I know some companies might be doing these all stuff but surely there could be done more. I would really want his thoughts on this topic.
+
+Yes recently I took part in Amazon ML challenge via Unstop, where I was the team lead. Although our team only got to the first round but we developed a solution for amazon to do OCR(optical character recog) around the dataset that they have. Designing the pipeline, dividing task and coming up with the best solutions was achieved by my team and me. 
+
+I had my English Report submission on that day, our team did not prepare anything till the last date. We had the topic of git and github. I remember I was handed 3-4 slides from the ppt which I had not seen until the very last hour of the presentation. On the time of presentation I had to see the slides first, then figure out what it was telling about, then explain it in my own words. It was really out of my comfort zone since I did not know how to present like this at that time. However we all completed the presentation, did not score very good marks of course but the teacher awarded a decent marks, for which I was happy with my self.
+
+
+Mostly I make tech based projects of my own since my very childhood. Some of them I can mention would be a car showroom management system using java and mysql in my highschool days, recently made a hand tracking system and although this one project of cloth matching was not completely working I came up with the idea of it progressed a little bit in developing it. The idea was that when a user adds something to his/her cart there would be suggestions what clothes would match with this, like a green flared jeans would go with white v neck tshirt, based on recent fassion trend data collected from instagram and other social media sites.
+
+Last time I hacked my way into life was when this sem. In our mess we have to get a coupon everytime while scanning our biometrics, then we have to give the coupon to receive snacks or icecreams for one time. I realized when there is snacks I don't like, I could just store the ticket and then when I want some snack or ice cream two times I could get, if I am cautious enough. It makes me laugh that although it's not right, but there exists a loophole in the system, which I would not exploit meaninglessly.  
+
+When it comes to anything related to data and trends, I could go on talk for hours straight. Traditional machine learning models, the maths behind those models that process the data, newer AI models, LLMs  these all things make me speak non stop about them. Clever maths solutions, smart implementation whenever I see or read about them I come to my friends and discuss them.
+
+I have this habit, when I come up with some solution that really seems anyone might not have came up with, or only few could come up with, new ideas, I could not sleep. Last time it was amazon ML challenge which was just last week, I did not sleep for 3 days continuously, first day thinking solutions about it, 2nd 3rd day implementing it. This kind of satisfaction what drives me, although I did not go to the next round I was satisfied inside.
+
+I really want to explore myself learning machine learning and AI in the next 6-12 months, I have started exploring this domain in recent one two years and I could see myself ruining my nights getting to know this domain more and more.
+
+I have not completed many projects, but one that I really proud of doing in y recent days was the OCR project. I had a dataset to read the labels and provide the value of the unit asked for. Seemed very simple at first but the real problem was that without optimisation of the current OCRs like tesseract, easyOCR, paddle it was not possible to get accurate enough results given the timeframe of 2-3 days. I had to pick an OCR that was a nice balance between fast and accurate for which I had to test each of them. I had to use gpu and cpu accelerations, for incorrect results I had to make a filter using fuzzy logic and vectorization techniques. This project really taught me how to approach these kinda problems.
+  
+https://github.com/sadnyd/amazonML_OCR
+
+I admire Helium that currently crossed their preseed rounds and bagged 4.52 Cr recently. The company is mostly about providing AI based tracking solutions for tagging elements for e commerce websites, along with smart advertising with visitor intelligence techniques.
+Another startup that I admire is comet sneakers which is an Indian homegrown brand. Their simply see cool sneakers and i like the part that they are homegrown.
+
+
+
+
+I have discovered recently that I do not need to know everything in order to build stuff. As requirements show up you can simply learn about them and build, rather than building things that you only know of. I see this nature to be part of most of the startup where they do not completely know how to do n number of stuffs but still deliver their best by learning about them. Tackling problems as they come.
+
+Currently I do not have any requirements as such but I do not want to be part any workplace that does not allow me to grow, holds me back. I do not want to waste my initial years of job to be wasted in doing very trivial things that do not allow us to grow. Apart from that I am open to most of the things you throw at me.
+
+
+
